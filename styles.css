@@ -1,0 +1,14 @@
+* {
+    font-family: Lato, Roboto, sans-serif;
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.4rem;
+}
